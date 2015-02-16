@@ -1,7 +1,7 @@
 {
-  "name": "Octo",
+  "name": "Octoductions",
   "version": "0.0.1",
-  "description": "The Octo App",
+  "description": "The Octoductions App",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
